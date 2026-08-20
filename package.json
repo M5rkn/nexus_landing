@@ -1,0 +1,13 @@
+{
+  "name": "nexus-landing",
+  "version": "1.0.0",
+  "private": true,
+  "description": "NEXUS — AI-Powered Analytics Platform Landing Page",
+  "scripts": {
+    "dev": "npx serve . -l 3000",
+    "build": "echo 'Static site — no build step required'"
+  },
+  "dependencies": {
+    "@supabase/supabase-js": "^2.45.0"
+  }
+}
